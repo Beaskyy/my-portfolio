@@ -1,6 +1,6 @@
 import "./testimonials.css";
-import avatar1 from "../../assets/avatar1.jpg";
-import avatar2 from "../../assets/avatar2.jpg";
+import avatar1 from "../../assets/ameenah.jpg";
+import avatar2 from "../../assets/karen.png";
 import avatar3 from "../../assets/avatar3.jpg";
 import avatar4 from "../../assets/avatar4.jpg";
 
@@ -15,27 +15,27 @@ const Testimonials = () => {
   const data = [
     {
       avatar: avatar1,
-      name: "Tina Snow",
+      name: "Ameenah Adebayo",
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque necessitatibus ab quam ut obcaecati. Obcaecati quam nostrum ex doloribus veniam deserunt iste ullam quia dolorem corrupti, aspernatur et ducimus placeat.",
+        "I have been using the products of beaskydev for several months now and I am extremely satisfied with the results. Their products are of high quality and their customer service is exceptional. I will definitely be a long-term customer!",
     },
     {
       avatar: avatar2,
-      name: "Tina Snow",
+      name: "Karen Ziboh",
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque necessitatibus ab quam ut obcaecati. Obcaecati quam nostrum ex doloribus veniam deserunt iste ullam quia dolorem corrupti, aspernatur et ducimus placeat.",
+        "I recently used the services of beaskydev and I have to say, it was a great experience. Their team was easy to work with and very accommodating. They provided me with a great solution that fit my needs perfectly. I would definitely recommend them to others!",
     },
     {
       avatar: avatar3,
-      name: "Tina Snow",
+      name: "Samuel Snow",
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque necessitatibus ab quam ut obcaecati. Obcaecati quam nostrum ex doloribus veniam deserunt iste ullam quia dolorem corrupti, aspernatur et ducimus placeat.",
+        "I have been a customer of beaskydev for over a year now and I have nothing but positive things to say about their services. Their team is knowledgeable and always ready to help with any issues I encounter. I highly recommend them!",
     },
     {
       avatar: avatar4,
-      name: "Tina Snow",
+      name: "Salwa Raheem",
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque necessitatibus ab quam ut obcaecati. Obcaecati quam nostrum ex doloribus veniam deserunt iste ullam quia dolorem corrupti, aspernatur et ducimus placeat.",
+        "I was hesitant to use beaskydev's services at first, but I am so glad I did! They exceeded my expectations and provided me with the support I needed to achieve my goals. Their team is friendly, professional, and dedicated to their work. Thank you, beasky!",
     },
   ];
   return (
