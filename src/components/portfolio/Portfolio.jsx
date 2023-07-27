@@ -4,10 +4,17 @@ import img2 from "../../assets/mypincoop.png";
 import img3 from "../../assets/airbnb.png";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
-import img6 from "../../assets/portfolio6.jpg";
+import img6 from "../../assets/portfolio6.png";
 
 const Portfolio = () => {
   const data = [
+    {
+      id: 6,
+      image: img6,
+      title: "Car Hub",
+      github: "https://github.com/Beaskyy/",
+      demo: "https://carhub-uc23.vercel.app/",
+    },
     {
       id: 1,
       image: img1,
@@ -43,13 +50,7 @@ const Portfolio = () => {
       github: "https://github.com/Beaskyy/food-website",
       demo: "https://foodweby.netlify.app/",
     },
-    {
-      id: 6,
-      image: img6,
-      title: "Dilivva Admin Dashboard",
-      github: "https://github.com/Beaskyy/",
-      demo: "https://admin.dilivva.com/",
-    },
+    
   ];
   return (
     <section id="portfolio">
