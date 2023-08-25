@@ -5,6 +5,7 @@ import img3 from "../../assets/airbnb.png";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
 import img6 from "../../assets/portfolio6.png";
+import img7 from "../../assets/portfolio7.png";
 
 const Portfolio = () => {
   const data = [
@@ -14,6 +15,13 @@ const Portfolio = () => {
       title: "Car Hub",
       github: "https://github.com/Beaskyy/",
       demo: "https://carhub-uc23.vercel.app/",
+    },
+    {
+      id: 7,
+      image: img7,
+      title: "Nike Store",
+      github: "https://github.com/Beaskyy/Nike",
+      demo: "https://nikeyy.netlify.app/",
     },
     {
       id: 1,
