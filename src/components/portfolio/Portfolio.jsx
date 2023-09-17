@@ -6,6 +6,7 @@ import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
 import img6 from "../../assets/portfolio6.png";
 import img7 from "../../assets/portfolio7.png";
+import img8 from "../../assets/portfolio8.png";
 
 const Portfolio = () => {
   const data = [
@@ -22,6 +23,13 @@ const Portfolio = () => {
       title: "Nike Store",
       github: "https://github.com/Beaskyy/Nike",
       demo: "https://nikeyy.netlify.app/",
+    },
+    {
+      id: 8,
+      image: img8,
+      title: "Insove",
+      github: "https://github.com/Beaskyy/insove",
+      demo: "https://insove.netlify.app/",
     },
     {
       id: 1,
