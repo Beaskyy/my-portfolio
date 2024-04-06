@@ -7,9 +7,17 @@ import img5 from "../../assets/portfolio5.png";
 import img6 from "../../assets/portfolio6.png";
 import img7 from "../../assets/portfolio7.png";
 import img8 from "../../assets/portfolio8.png";
+import img9 from "../../assets/portfolio9.png";
 
 const Portfolio = () => {
   const data = [
+    {
+      id: 6,
+      image: img9,
+      title: "Send 24",
+      github: "https://github.com/Beaskyy/",
+      demo: "https://send24.co/",
+    },
     {
       id: 6,
       image: img6,
