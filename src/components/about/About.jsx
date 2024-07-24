@@ -32,7 +32,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            A fullstack developer with proven experience in creating and
+            A frontend developer with proven experience in creating and
             maintaining functional, attractive and responsive websites. Clear
             understanding of modern technologies and best design practices.
             Well-versed in numerous programming languages JavaScript,
